@@ -6,7 +6,7 @@
 > 
 > The main purpose of creating this repository is to record and demonstrate my learning process, and to fix, refactor, and expand the functionality of the code (for example, implementing the logic of unlimited troops).
 > 
-> **所有核心思想和原始教学内容均归原作者韩顺平老师所有。** 如果您想学习这个项目是如何从零开始构建的，强烈推荐观看原版教学视频。
+> **All core ideas and original teaching content belong to the original author, Mr. Han Shunping. ** If you want to learn how this project was built from scratch, it is highly recommended to watch the original teaching video.
 
 ### 🌟 About The Project
 
