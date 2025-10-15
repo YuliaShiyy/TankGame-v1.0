@@ -10,18 +10,6 @@ A classic 2D tank battle game developed using Java Swing to practice core Java c
 
 ---
 
-### 📖 Table of Contents
-* [About The Project](#-about-the-project)
-* [Built With](#-built-with)
-* [Getting Started](#-getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Running the Game](#running-the-game)
-* [Features](#-features)
-* [License](#-license)
-* [Contact](#-contact)
-
----
-
 ### 🌟 About The Project
 
 This project is a recreation of the classic tank battle game. It was built from scratch to serve as a practical application for fundamental Java programming principles. The game is fully functional, featuring player controls, enemy AI, collision detection, and a save/load system.
@@ -58,7 +46,7 @@ Make sure you have the following software installed on your machine:
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPOSITORY_NAME].git
+    git clone [https://github.com/](https://github.com/YuliaShiyy/TankGame-v1.0].git
     ```
 2.  **Open the project** in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
