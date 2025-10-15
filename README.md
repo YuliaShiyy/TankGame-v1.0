@@ -1,5 +1,12 @@
 # TankGame-v1.0
 
+# Classic Tank Battle Game in Java
+
+> **Important Disclaimer:** The main code for this project comes from a Java course taught by renowned Bilibili instructor Shunping Han. As a student, I independently wrote, debugged, and improved the code based on the course content.
+> 
+> The main purpose of creating this repository is to record and demonstrate my learning process, and to fix, refactor, and expand the functionality of the code (for example, implementing the logic of unlimited troops).
+> 
+> **所有核心思想和原始教学内容均归原作者韩顺平老师所有。** 如果您想学习这个项目是如何从零开始构建的，强烈推荐观看原版教学视频。
 
 ### 🌟 About The Project
 
@@ -69,8 +76,13 @@ Make sure you have the following software installed on your machine:
 
 ---
 
-### 📜 License
+### 🔧 My Modifications & Improvements
 
-Distributed under the MIT License. See `LICENSE` file for more information.
+While following the tutorial, I implemented several modifications and bug fixes:
+
+* **Multi-bullet Support:** Refactored the code to allow the player's tank to fire multiple bullets simultaneously.
+* **Concurrency Bug Fix:** Resolved potential `ConcurrentModificationException` errors by using safe iteration techniques when handling collections of game objects.
+* **Infinite Enemy Spawning:** Added a feature for new enemy tanks to spawn continuously, creating an endless gameplay mode.
+* **Code Refactoring:** Organized resource files (images, sounds) into a dedicated `resources` folder for better project structure.
 
 ---
