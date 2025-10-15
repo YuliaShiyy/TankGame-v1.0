@@ -6,7 +6,7 @@
 > 
 > The main purpose of creating this repository is to record and demonstrate my learning process, and to fix, refactor, and expand the functionality of the code (for example, implementing the logic of unlimited troops).
 > 
-> **All core ideas and original teaching content belong to the original author, Mr. Han. ** If you want to learn how this project was built from scratch, it is highly recommended to watch the original teaching video.
+> All core ideas and original teaching content belong to the original author, Mr. Han. If you want to learn how this project was built from scratch, it is highly recommended to watch the original teaching video.
 
 ### 🌟 About The Project
 
