@@ -1,14 +1,5 @@
 # TankGame-v1.0
 
-A classic 2D tank battle game developed using Java Swing to practice core Java concepts like OOP, multithreading, and event handling.
-
-<br>
-
-<p align="center">
-  <img src="GameScreenshots/HitAnEnemyTank.png" alt="Game Screenshot" width="700">
-</p>
-
----
 
 ### 🌟 About The Project
 
@@ -20,6 +11,14 @@ This project demonstrates proficiency in:
 * **Java Swing for GUI:** Creating the game window, drawing all graphics, and managing the main game loop.
 * **Event Handling:** Capturing and responding to keyboard inputs for player movement and actions.
 * **File I/O:** Saving the game score and state to a local file, and loading it back upon request.
+
+---
+
+<br>
+
+<p align="center">
+  <img src="GameScreenshots/HitAnEnemyTank.png" alt="Game Screenshot" width="700">
+</p>
 
 ---
 
