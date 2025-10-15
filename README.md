@@ -5,7 +5,7 @@ A classic 2D tank battle game developed using Java Swing to practice core Java c
 <br>
 
 <p align="center">
-  <img src="[GameScreenshots/GamePanel.png]" alt="Game Screenshot" width="700">
+  <img src="GameScreenshots/GamePanel.png" alt="Game Screenshot" width="700">
 </p>
 
 ---
